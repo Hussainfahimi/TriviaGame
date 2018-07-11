@@ -43,6 +43,7 @@ h1 {
     margin: 0 auto;
     text-align: center;
     padding: 4%;
+
 }
 
 label {
@@ -60,8 +61,9 @@ label {
 }
 
 #timesUp {
+    background-size: cover;
     display: none;
-    background-image: url('assets/images/timesup.jpg');
+    background-image: url('../images/timesup.jpg');
     background-repeat: no-repeat;
     width: 50%;
     margin: 0 auto;
