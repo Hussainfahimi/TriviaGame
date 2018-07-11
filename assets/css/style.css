@@ -12,6 +12,7 @@ h1 {
 
 #splashscreen {
     background-image: url('https://cdn.pixabay.com/photo/2017/06/15/23/47/painting-2407262__340.jpg');
+    background-size: cover;
     background-repeat: no-repeat;
     width: 50%;
     margin: 0 auto;
