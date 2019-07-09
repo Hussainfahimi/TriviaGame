@@ -104,7 +104,7 @@ var countdown = function (seconds) {
 		$("#time-remain").html(seconds);
 
 		if (seconds <= 0) {
-			$('.container').fadeOut(500);
+			$('.container').fadeOut(10000);
 			var correctAnswers = 0;
 			var wrongAnswers = 0;
 			var unAnswered = 0;
